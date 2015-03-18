@@ -1,0 +1,5 @@
+node_modules
+build
+app/bower_components
+app/bundles
+*.log
