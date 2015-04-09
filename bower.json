@@ -1,12 +1,11 @@
 {
-  "name": "webkid-react-starterkit",
+  "name": "React boilerplate",
   "version": "0.0.1",
   "authors": [
-    "@moklick <mo@webkid.io>"
+    "@tanskanm <mikko.tanskanen@iki.fi>"
   ],
-  "description": "Lightweight starting point for a react web app.",
+  "description": "My react boilerplate",
   "main": "index.html",
-  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
